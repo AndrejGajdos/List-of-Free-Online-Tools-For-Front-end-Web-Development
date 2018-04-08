@@ -109,6 +109,9 @@ List of free online tools and resources in form of web applications or web servi
 
 * [theappguruz.com/tag-tools/web/CSSAnimations](http://www.theappguruz.com/tag-tools/web/CSSAnimations/) - Collection of CSS animations
 * [anicollection.github.io](http://anicollection.github.io/#/) - Collection of CSS animations
+
+![anicollection.github.io](https://github.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/blob/master/img/anicollection.gif)
+
 * [cssanimate.com](http://cssanimate.com/) - CSS animation generator
 * [angrytools.com/css/animation](http://angrytools.com/css/animation/) - CSS animation generator
 * [animista.net](http://animista.net/) - CSS animation generator
