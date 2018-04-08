@@ -2,6 +2,26 @@
 
 List of free online tools and resources in form of web applications or web services for front-end development. Each tool contains a short description with a .gif preview or a webpage screenshot.
 
+* [Typography](#typography)
+  * [Fonts collections](#fonts-collections)
+* [Colors, Palettes & Patterns](#colors-palettes-patterns)
+  * [Color info](#color-info)
+  * [Color generators](#color-generators)
+  * [Pattern editors](#pattern-editors)
+  * [Gradient generators](#gradient-generators)
+  * [Color palettes](#color-palettes)
+  * [Color grabbers](#color-grabbers)
+* [Images](#images)
+  * [Image converters and editors](#image-converters-and-editors)
+* [CSS](#css)
+  * [CSS gradient generators](#css-gradient-generators)
+  * [CSS animation editors](#css-animation-editors)
+  * [CSS triangle generators](#css-triangle-generators)
+  * [Gradient generators](#gradient-generators)
+* [SVG](#svg)
+* [Regex](#regex)
+* [Others](#others)
+
 ## Typography
 
 * [lorem2.com](http://lorem2.com/) - Simple and better way to grab Lorem Ipsum text content
@@ -122,7 +142,7 @@ List of free online tools and resources in form of web applications or web servi
 
 ![svgeneration.com](https://github.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/blob/master/img/svgeneration.gif)
 
-*[kennethcachia.com/plain-pattern](http://www.kennethcachia.com/plain-pattern/) - SVG pattern editor
+* [kennethcachia.com/plain-pattern](http://www.kennethcachia.com/plain-pattern/) - SVG pattern editor
 
 ![kennethcachia.com/plain-pattern](https://github.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/blob/master/img/kennethcachia.com:plain-pattern:app.gif)
 
@@ -139,6 +159,9 @@ List of free online tools and resources in form of web applications or web servi
 ### Color palettes
 
 * [flatuicolors.com](https://flatuicolors.com/) - Collection of color palettes
+
+![flatuicolors.com](https://github.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/blob/master/img/flatuicolors.png)
+
 * [colordrop.io](https://colordrop.io/) - Collection of color palettes
 
 ![colordrop.io](https://github.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/blob/master/img/colordrop.png)
