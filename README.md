@@ -17,7 +17,6 @@ List of free online tools and resources in form of web applications or web servi
   * [CSS gradient generators](#css-gradient-generators)
   * [CSS animation editors](#css-animation-editors)
   * [CSS triangle generators](#css-triangle-generators)
-  * [Gradient generators](#gradient-generators)
 * [SVG](#svg)
 * [Regex](#regex)
 * [Others](#others)
