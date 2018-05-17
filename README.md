@@ -91,6 +91,10 @@ List of free online tools and resources in form of web applications or web servi
 
 ![patterncooler.com](https://i.imgur.com/Iiw5Kpc.png)
 
+* [colorhunt.co](http://colorhunt.co/) - Collection of color palettes
+
+![colorhunt.co](https://i.imgur.com/PWGrKz1.png)
+
 ### Color info
 
 * [color-hex.com](http://www.color-hex.com/) - Gives information about colors
