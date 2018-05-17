@@ -119,6 +119,10 @@ List of free online tools and resources in form of web applications or web servi
 
 ![galactic.ink/sphere](https://i.imgur.com/E8XY4UR.gif)
 
+* [colorsupplyyy.com/app](http://colorsupplyyy.com/app/) - Generate various color mixtures
+
+![colorsupplyyy.com/app](https://i.imgur.com/38CFvhv.png)
+
 ### Pattern editors
 
 * [patterninja.com](https://patterninja.com/) - Pattern editor
