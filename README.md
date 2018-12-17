@@ -241,11 +241,11 @@ List of free online tools and resources in form of web applications or web servi
 
 - [websiteplanet.com/webtools/imagecompressor](https://www.websiteplanet.com/webtools/imagecompressor) - .png or .jpg compression into optimized .png (allows pictures up to 50MB size)
 
+![websiteplanet.com/webtools/imagecompressor](https://i.imgur.com/7zReSEd.png)
+
 - [tinypng.com](https://tinypng.com/) - another compression tool which allows compressing .png and .jpg images (allows pictures up to 5MB size)
 
 ![tinypng.com](https://i.imgur.com/GoUfTmH.png)
-
-![websiteplanet.com/webtools/imagecompressor](https://i.imgur.com/7zReSEd.png)
 
 - [bse64.com](http://bse64.com/) - Encode your images into BASE64
 
@@ -375,15 +375,15 @@ List of free online tools and resources in form of web applications or web servi
 
 - [bennettfeely.com/clippy](http://bennettfeely.com/clippy/) - Clip path generator
 
-![bennettfeely.com/clippy](https://i.imgur.com/8Og8mLz.gif)
+![bennettfeely.com/clippy](https://i.imgur.com/4WuF7Kf.giv)
 
 - [jxnblk.com/paths](http://jxnblk.com/paths/) - Path generator
 
-![jxnblk.com/paths](https://i.imgur.com/8MAvbfn.gif)
+![jxnblk.com/paths](https://i.imgur.com/TvVp2PQ.giv)
 
 - [kazzkiq.github.io/svg-color-filter](http://kazzkiq.github.io/svg-color-filter/) - SVG color filter editor
 
-![kazzkiq.github.io/svg-color-filter](https://i.imgur.com/hUTZo5V.gif)
+![kazzkiq.github.io/svg-color-filter](https://i.imgur.com/WiMJ1LK.giv)
 
 - [jorgeatgu.github.io/svg-filters](http://jorgeatgu.github.io/svg-filters/) - SVG filter effects editor
 
@@ -411,7 +411,7 @@ List of free online tools and resources in form of web applications or web servi
 
 - [livetools.uiparade.com/form-builder](http://livetools.uiparade.com/form-builder.html) - Form builder
 
-![livetools.uiparade.com/form-builder](https://i.imgur.com/uMcqueP.gif)
+![livetools.uiparade.com/form-builder](https://i.imgur.com/1NezMUa.giv)
 
 - [livetools.uiparade.com/ribbon-builder](http://livetools.uiparade.com/ribbon-builder.html) - Ribbon builder
 
