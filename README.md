@@ -11,7 +11,7 @@ List of free online tools and resources in form of web applications or web servi
   - [Gradient generators](#gradient-generators)
   - [Color palettes](#color-palettes)
   - [Color grabbers](#color-grabbers)
-- [Images](#images)
+- [Images, Illustrations, Videos](#images)
   - [Image converters and editors](#image-converters-and-editors)
 - [CSS](#css)
   - [CSS gradient generators](#css-gradient-generators)
@@ -23,9 +23,9 @@ List of free online tools and resources in form of web applications or web servi
 
 ## Typography
 
-- [lorem2.com](http://lorem2.com/) - Simple and better way to grab Lorem Ipsum text content
+- [loremipsum.io](https://loremipsum.io/) - Simple and better way to grab Lorem Ipsum text content
 
-![lorem2.com](https://i.imgur.com/g3272CH.png)
+![loremipsum.io](https://i.imgur.com/KIIBMCm.png)
 
 - [gridlover.net/try](https://www.gridlover.net/try) - Establish a typographic system with modular scale and vertical rhythm
 
@@ -47,9 +47,9 @@ List of free online tools and resources in form of web applications or web servi
 
 ![fontpair.co](https://i.imgur.com/4O0Tm32.png)
 
-- [onlinefontconverter.com](https://onlinefontconverter.com/) - Online font converter
+- [transfonter.org](https://transfonter.org/) - Online font converter
 
-![onlinefontconverter.com](https://i.imgur.com/kKxIOrF.png)
+![transfonter.org](https://i.imgur.com/otqi0bM.png)
 
 ### Fonts collections
 
@@ -145,10 +145,6 @@ List of free online tools and resources in form of web applications or web servi
 
 ![qrohlf.com/trianglify-generator](https://i.imgur.com/yELXVt5.png)
 
-- [svgeneration.com](http://www.svgeneration.com/) - Collection of SVG background graphics and patterns
-
-![svgeneration.com](https://i.imgur.com/aPc4HeC.gif)
-
 - [kennethcachia.com/plain-pattern](http://www.kennethcachia.com/plain-pattern/) - SVG pattern editor
 
 ![kennethcachia.com/plain-pattern](https://i.imgur.com/v3YKp2q.gif)
@@ -195,7 +191,7 @@ List of free online tools and resources in form of web applications or web servi
 
 ![webcolourdata.com](https://i.imgur.com/JGh9NS3.png)
 
-## Images
+## Images, Illustrations, Videos
 
 - [pixabay.com](https://pixabay.com/) - Collection of free images
 
@@ -225,9 +221,17 @@ List of free online tools and resources in form of web applications or web servi
 
 ![vecteezy.com](https://i.imgur.com/cTXZh03.png)
 
+-[undraw.co/illustrations](https://undraw.co/illustrations) - Collection of illustrations for free
+
+![undraw.co/illustrations](https://i.imgur.com/e8dLmxP.png)
+
 - [iconfinder.com](https://www.iconfinder.com/) - Icon finder
 
 ![iconfinder.com](https://i.imgur.com/1UTel90.png)
+
+- [coverr.co](https://coverr.co/) - Free cover videos
+
+![coverr.co](https://i.imgur.com/63WNLuu.jpg)
 
 ### Image converters and editors
 
@@ -235,9 +239,13 @@ List of free online tools and resources in form of web applications or web servi
 
 ![jpeg.io](https://i.imgur.com/MZIQ6az.png)
 
-- [tinypng.com](https://tinypng.com/) - .png or .jpg compression into optimized .png
+- [websiteplanet.com/webtools/imagecompressor](https://www.websiteplanet.com/webtools/imagecompressor) - .png or .jpg compression into optimized .png (allows pictures up to 50MB size)
+
+- [tinypng.com](https://tinypng.com/) - another compression tool which allows compressing .png and .jpg images (allows pictures up to 5MB size)
 
 ![tinypng.com](https://i.imgur.com/GoUfTmH.png)
+
+![websiteplanet.com/webtools/imagecompressor](https://i.imgur.com/7zReSEd.png)
 
 - [bse64.com](http://bse64.com/) - Encode your images into BASE64
 
@@ -281,17 +289,13 @@ List of free online tools and resources in form of web applications or web servi
 
 ![cssmatic.com](https://i.imgur.com/868alht.gif)
 
-- [csswarp.eleqtriq](http://csswarp.eleqtriq.com/) - Text to path generator
+- [cssmatic.com/box-shadow](https://www.cssmatic.com/box-shadow) - CSS drop shadows generator
 
-![csswarp.eleqtriq](https://i.imgur.com/dvZEFos.gif)
+![cssmatic.com/box-shadow](https://i.imgur.com/fiL9CD0.png)
 
-- [css3-drop-shadows](http://css3-drop-shadows.herokuapp.com/app) - CSS drop shadows generator
+- [developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator) - CSS border image generator
 
-![css3-drop-shadows](https://i.imgur.com/r7jBObW.gif)
-
-- [border-image.com](http://border-image.com/) - CSS border image generator
-
-![border-image.com](https://i.imgur.com/IHR636q.png)
+![developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator](https://i.imgur.com/2jCXxxl.png)
 
 - [lucidcrew.com/csscorners](https://www.lucidcrew.com/csscorners/) - CSS button generator
 
