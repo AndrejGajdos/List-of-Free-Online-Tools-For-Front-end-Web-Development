@@ -125,7 +125,7 @@ List of free online tools and resources in form of web applications or web servi
 
 - [colorsupplyyy.com/app](http://colorsupplyyy.com/app/) - Generate various color mixtures
 
-![colorsupplyyy.com/app](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/colorsupplyyy.com/app.png)
+![colorsupplyyy.com/app](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/colorsupplyyy.com-app.png)
 
 ### Pattern editors
 
@@ -225,7 +225,7 @@ List of free online tools and resources in form of web applications or web servi
 
 ![vecteezy.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/vecteezy.com-free-vector.png)
 
--[undraw.co/illustrations](https://undraw.co/illustrations) - Collection of illustrations for free
+- [undraw.co/illustrations](https://undraw.co/illustrations) - Collection of illustrations for free
 
 ![undraw.co/illustrations](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/undraw.co-illustrations.png)
 
@@ -243,17 +243,17 @@ List of free online tools and resources in form of web applications or web servi
 
 ![jpeg.io](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/jpeg.png)
 
-- [websiteplanet.com/webtools/imagecompressor](https://www.websiteplanet.com/webtools/imagecompressor) - .png or .jpg compression into optimized .png (allows pictures up to 50MB size)
-
-![websiteplanet.com/webtools/imagecompressor](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/websiteplanet.com-webtools-imagecompressor.png)
-
 - [tinypng.com](https://tinypng.com/) - another compression tool which allows compressing .png and .jpg images (allows pictures up to 5MB size)
 
 ![tinypng.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/tinypng.png)
 
+- [websiteplanet.com/webtools/imagecompressor](https://www.websiteplanet.com/webtools/imagecompressor) - .png or .jpg compression into optimized .png (allows pictures up to 50MB size)
+
+![websiteplanet.com/webtools/imagecompressor](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/websiteplanet.com-webtools-imagecompressor.png)
+
 - [bse64.com](http://bse64.com/) - Encode your images into BASE64
 
-![bse64.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/webdesignrankings.com/resources/bse64.png)
+![bse64.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/webdesignrankings.com/resources/webdesignrankings.com-resources-bse64.png.png)
 
 - [lorempixel.com](http://lorempixel.com/) - Placeholder images generator
 
@@ -331,7 +331,7 @@ List of free online tools and resources in form of web applications or web servi
 
 - [theappguruz.com/tag-tools/web/CSSAnimations](http://www.theappguruz.com/tag-tools/web/CSSAnimations/) - Collection of CSS animations
 
-![theappguruz.com/tag-tools/web/CSSAnimations](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/theappguruz.com/tag-tools/web/CSSAnimations.gif)
+![theappguruz.com/tag-tools/web/CSSAnimations](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/theappguruz.com/tag-tools/web/theappguruz.com-tag-tools-web-CSSAnimations.gif)
 
 - [anicollection.github.io](http://anicollection.github.io/#/) - Collection of CSS animations
 
