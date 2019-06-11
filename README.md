@@ -1,6 +1,6 @@
-# List of Free Online Tools For Front-end Web Development
+# List of Free Online Tools For Front-end Web Development (2019)
 
-List of free online tools and resources in form of web applications or web services for front-end development. Each tool contains a short description with a .gif preview or a webpage screenshot.
+List of free online tools and resources in form of web applications or web services for front-end development. Each tool contains a short description and preview as a webpage screenshot.
 
 - [Typography](#typography)
   - [Fonts collections](#fonts-collections)
@@ -217,6 +217,10 @@ List of free online tools and resources in form of web applications or web servi
 
 ![freephotos.cc](https://i.imgur.com/ppAXiZv.png)
 
+- [kisspng.com](https://www.kisspng.com/) - Collection of transparent png images
+
+![kisspng.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/kisspng.png)
+
 - [vecteezy.com](https://www.vecteezy.com/) - Collection of free vector art
 
 ![vecteezy.com](https://i.imgur.com/cTXZh03.png)
@@ -349,7 +353,7 @@ List of free online tools and resources in form of web applications or web servi
 
 ![jeremyckahn.github.io/stylie](https://i.imgur.com/fnHfFbv.gif)
 
-- [waitanimate.wstone.io](http://waitanimate.wstone.io/#!/) - CSS animation generator
+- [waitanimate.wstone.io](http://waitanimate.wstone.io/#!/) - calculate the keyframe percentages so that you can insert a delay between each animation iteration
 
 ![waitanimate.wstone.io](https://i.imgur.com/e36mvPy.gif)
 
@@ -408,14 +412,6 @@ List of free online tools and resources in form of web applications or web servi
 ![regex101.com](https://i.imgur.com/DFoHZrU.png)
 
 ## Others
-
-- [livetools.uiparade.com/form-builder](http://livetools.uiparade.com/form-builder.html) - Form builder
-
-![livetools.uiparade.com/form-builder](https://i.imgur.com/1NezMUa.giv)
-
-- [livetools.uiparade.com/ribbon-builder](http://livetools.uiparade.com/ribbon-builder.html) - Ribbon builder
-
-![livetools.uiparade.com/ribbon-builder](https://i.imgur.com/qfw6jvO.png)
 
 - [developers.google.com/speed/pagespeed/insights](https://developers.google.com/speed/pagespeed/insights/) - Provides information about how well a page adheres to a set of best practices
 
