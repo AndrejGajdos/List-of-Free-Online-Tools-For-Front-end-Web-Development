@@ -331,7 +331,7 @@ List of free online tools and resources in form of web applications or web servi
 
 - [theappguruz.com/tag-tools/web/CSSAnimations](http://www.theappguruz.com/tag-tools/web/CSSAnimations/) - Collection of CSS animations
 
-![theappguruz.com/tag-tools/web/CSSAnimations](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/theappguruz.com/tag-tools/web/theappguruz.com-tag-tools-web-CSSAnimations.gif)
+![theappguruz.com/tag-tools/web/CSSAnimations](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/theappguruz.com-tag-tools-web-CSSAnimations.gif)
 
 - [anicollection.github.io](http://anicollection.github.io/#/) - Collection of CSS animations
 
