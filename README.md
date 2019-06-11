@@ -253,7 +253,7 @@ List of free online tools and resources in form of web applications or web servi
 
 - [bse64.com](http://bse64.com/) - Encode your images into BASE64
 
-![bse64.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/webdesignrankings.com/resources/webdesignrankings.com-resources-bse64.png.png)
+![bse64.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/webdesignrankings.com/resources/webdesignrankings.com-resources-bse64.png)
 
 - [lorempixel.com](http://lorempixel.com/) - Placeholder images generator
 
