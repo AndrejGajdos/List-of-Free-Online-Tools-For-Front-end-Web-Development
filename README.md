@@ -269,7 +269,7 @@ List of free online tools and resources in form of web applications or web servi
 
 - [toptal.com/developers/css/sprite-generator](https://www.toptal.com/developers/css/sprite-generator) - Css sprites generator
 
-![toptal.com/developers/css/sprite-generator](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/toptal.com-designers-subtlepatterns.png)
+![toptal.com/developers/css/sprite-generator](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/toptal.com-developers-css-sprite-generator.png)
 
 - [webresizer.com/resizer](http://webresizer.com/resizer/) - Image editor
 
