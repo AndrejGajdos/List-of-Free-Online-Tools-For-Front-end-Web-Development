@@ -191,6 +191,8 @@ List of free online tools and resources in form of web applications or web servi
 
 ![webcolourdata.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/webcolourdata.png)
 
+- [image-color.com](https://image-color.com/) - Grab colors from images
+
 ## Images, Illustrations, Videos
 
 - [pixabay.com](https://pixabay.com/) - Collection of free images
