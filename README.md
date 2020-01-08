@@ -234,7 +234,7 @@ List of free online tools and resources in form of web applications or web servi
 
 ![coverr.co](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/coverr.co.png)
 
-- [mazwai.com](https://mazwai.com/) - Free cinematic videos
+- [mazwai.com](https://mazwai.com/) - Free cinematic videos under a CC BY 3.0 License
 
 ![mazwai.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/mazwai.png)
 
