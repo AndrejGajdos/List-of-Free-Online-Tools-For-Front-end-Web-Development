@@ -1,4 +1,4 @@
-# List of Free Online Tools For Front-end Web Development (2019)
+# List of Free Online Tools For Front-end Web Development (2020)
 
 List of free online tools and resources in form of web applications or web services for front-end development. Each tool contains a short description and preview as a webpage screenshot.
 
