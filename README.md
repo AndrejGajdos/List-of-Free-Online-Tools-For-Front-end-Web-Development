@@ -5,7 +5,6 @@ List of free online tools and resources in form of web applications or web servi
 - [Typography](#typography)
   - [Fonts collections](#fonts-collections)
 - [Colors, Palettes & Patterns](#colors-palettes-patterns)
-  - [Color info](#color-info)
   - [Color generators](#color-generators)
   - [Pattern editors](#pattern-editors)
   - [Gradient generators](#gradient-generators)
@@ -71,6 +70,14 @@ List of free online tools and resources in form of web applications or web servi
 
 ## Colors, Palettes & Patterns
 
+- [color-hex.com](http://www.color-hex.com/) - Gives information about colors
+
+![color-hex.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/color-hex.png)
+
+- [colorhunt.co](http://colorhunt.co/) - Collection of color palettes
+
+![colorhunt.co](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/colorhunt.co.png)
+
 - [colourlovers.com](http://www.colourlovers.com/) - Collection of palettes, patterns, shapes and colors
 
 ![colourlovers.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/colourlovers.png)
@@ -90,20 +97,6 @@ List of free online tools and resources in form of web applications or web servi
 - [patterncooler.com](https://www.patterncooler.com/) - Collection of pattern backgrounds
 
 ![patterncooler.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/patterncooler.png)
-
-- [colorhunt.co](http://colorhunt.co/) - Collection of color palettes
-
-![colorhunt.co](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/colorhunt.co.png)
-
-### Color info
-
-- [color-hex.com](http://www.color-hex.com/) - Gives information about colors
-
-![color-hex.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/color-hex.png)
-
-- [0to255.com](http://www.0to255.com/) - Finding lighter and darker colors based on any color
-
-![0to255.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/0to255.png)
 
 ### Color generators
 
@@ -187,6 +180,10 @@ List of free online tools and resources in form of web applications or web servi
 
 ![colorhunter.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/colorhunter.png)
 
+- [image-color.com](https://image-color.com/) - Another colors grabber from images
+
+![image-color.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/image-color.png)
+
 - [webcolourdata.com](http://webcolourdata.com/) - Grab colors from websites
 
 ![webcolourdata.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/webcolourdata.png)
@@ -236,6 +233,10 @@ List of free online tools and resources in form of web applications or web servi
 - [coverr.co](https://coverr.co/) - Free cover videos
 
 ![coverr.co](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/coverr.co.png)
+
+- [mazwai.com](https://mazwai.com/) - Free cinematic videos
+
+![mazwai.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/mazwai.png)
 
 ### Image converters and editors
 
@@ -300,10 +301,6 @@ List of free online tools and resources in form of web applications or web servi
 - [developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator) - CSS border image generator
 
 ![developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/developer.mozilla.org-en-US-docs-Web-CSS-CSS_Background_and_Borders-Border-image_generator.png)
-
-- [lucidcrew.com/csscorners](https://www.lucidcrew.com/csscorners/) - CSS button generator
-
-![lucidcrew.com/csscorners](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/lucidcrew.com-css-button-generator.png)
 
 - [cssfilters.co](http://www.cssfilters.co/) - CSS filters editor
 
@@ -389,9 +386,9 @@ List of free online tools and resources in form of web applications or web servi
 
 ![kazzkiq.github.io/svg-color-filter](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/kazzkiq.github.io-svg-color-filter.png)
 
-- [jorgeatgu.github.io/svg-filters](http://jorgeatgu.github.io/svg-filters/) - SVG filter effects editor
+- [yoksel.github.io/svg-filters](https://yoksel.github.io/svg-filters/#/) - SVG filter effects editor
 
-![jorgeatgu.github.io/svg-filters](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/jorgeatgu.github.io-svg-filters.png)
+![yoksel.github.io/svg-filters](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/yoksel.github.io.png)
 
 - [gigacore.github.io/demos/svg-stroke-dasharray-generator](http://gigacore.github.io/demos/svg-stroke-dasharray-generator/) - Dash line generator
 
