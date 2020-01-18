@@ -408,6 +408,10 @@ List of free online tools and resources in form of web applications or web servi
 
 ![regex101.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/regex101.png)
 
+- [extendsclass.com](https://extendsclass.com/regex-tester.html) - Building, visualizing and testing regular expressions
+
+![extendsclass.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/extendsclass.png)
+
 ## Others
 
 - [developers.google.com/speed/pagespeed/insights](https://developers.google.com/speed/pagespeed/insights/) - Provides information about how well a page adheres to a set of best practices
