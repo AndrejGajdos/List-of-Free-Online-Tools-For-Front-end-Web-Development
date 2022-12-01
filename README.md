@@ -170,6 +170,8 @@ List of free online tools and resources in form of web applications or web servi
 
 ![flatuicolorpicker.com/category/all](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/flatuicolorpicker.png)
 
+- [branition.com/colors](https://branition.com/colors) - Collection of color palettes for branding
+
 ### Color grabbers
 
 - [lokeshdhakar.com/projects/color-thief](http://lokeshdhakar.com/projects/color-thief/) - Grab the color palette from an image
