@@ -8,12 +8,14 @@ List of free online tools and resources in form of web applications or web servi
   - [Color generators](#color-generators)
   - [Pattern editors](#pattern-editors)
   - [Gradient generators](#gradient-generators)
+  
   - [Color palettes](#color-palettes)
   - [Color grabbers](#color-grabbers)
 - [Images, Illustrations, Videos](#images)
   - [Image converters and editors](#image-converters-and-editors)
 - [CSS](#css)
   - [CSS gradient generators](#css-gradient-generators)
+  - [CSS Border radius generators](#css-border-radius-generators)
   - [CSS animation editors](#css-animation-editors)
   - [CSS triangle generators](#css-triangle-generators)
 - [SVG](#svg)
@@ -323,7 +325,10 @@ List of free online tools and resources in form of web applications or web servi
 - [angrytools.com/gradient](http://angrytools.com/gradient/) - CSS gradient generator
 
 ![angrytools.com/gradient](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/angrytools.com-gradient.png)
+### CSS Border Radius Generators 
+- [css-borderradius](https://css-borderradius.web.app/) - Its a tool that lets you visually edit css borders that saves you time.
 
+![css-borderradius](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/css-border-radius-generator-tool.jpg)
 ### CSS animation editors
 
 - [theappguruz.com/tag-tools/web/CSSAnimations](http://www.theappguruz.com/tag-tools/web/CSSAnimations/) - Collection of CSS animations
