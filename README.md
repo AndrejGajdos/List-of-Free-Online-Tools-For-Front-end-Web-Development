@@ -274,6 +274,8 @@ List of free online tools and resources in form of web applications or web servi
 
 - [webresizer.com/resizer](http://webresizer.com/resizer/) - Image editor
 
+- [mini-tools.uk/image](https://mini-tools.uk/image) - Browser-based image compressor, resizer and WebP converter
+
 ![webresizer.com/resizer](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/webresizer.com-resizer.png)
 
 - [picsvg.com](https://picsvg.com/) - Converts jpeg,jpg,gif,png picture to SVG
