@@ -417,3 +417,5 @@ List of free online tools and resources in form of web applications or web servi
 - [easings.net](http://easings.net/en) - Collection of easing functions
 
 ![easings.net](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/easings.png)
+
+- [FreePNGConvert](https://freepngconvert.com) - Free WebP to PNG image converter that runs entirely in your browser — no uploads to a server, no signup, fast and private.
