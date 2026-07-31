@@ -280,6 +280,8 @@ List of free online tools and resources in form of web applications or web servi
 
 ![picsvg.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/picsvg.png)
 
+- [nutilz.com/image-converter](https://nutilz.com/image-converter) - Free browser-based image format converter (JPG, PNG, WebP, GIF, and more), no signup or upload limits
+
 ## CSS
 
 - [westciv.com/tools/3Dtransforms](http://westciv.com/tools/3Dtransforms/index.html) - gradients/transforms editor
