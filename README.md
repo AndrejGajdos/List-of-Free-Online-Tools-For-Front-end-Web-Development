@@ -305,6 +305,7 @@ List of free online tools and resources in form of web applications or web servi
 - [cssfilters.co](http://www.cssfilters.co/) - CSS filters editor
 
 ![cssfilters.co](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/cssfilters.png)
+- [freepngconvert.com](https://freepngconvert.com) - Free browser-based WebP to PNG converter. No upload required — all processing happens client-side.
 
 ### CSS gradient generators
 
