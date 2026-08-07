@@ -240,6 +240,7 @@ List of free online tools and resources in form of web applications or web servi
 
 ### Image converters and editors
 
+- [freepngconvert.com](https://freepngconvert.com) - Free browser-based image converter for WebP, GIF, JPG to PNG, and PNG to JPG/WEBP/PDF. No upload required.
 - [jpeg.io](https://www.jpeg.io/) - Converts any major image format into a highly optimized JPEG
 
 ![jpeg.io](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/jpeg.png)
