@@ -280,6 +280,10 @@ List of free online tools and resources in form of web applications or web servi
 
 ![picsvg.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/picsvg.png)
 
+- [deerimage.com](https://deerimage.com/) - Free, no-login browser-based tools for image compression, conversion, cropping, resizing, ID photos, signatures, and drawing
+
+![deerimage.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/deerimage.png)
+
 ## CSS
 
 - [westciv.com/tools/3Dtransforms](http://westciv.com/tools/3Dtransforms/index.html) - gradients/transforms editor
