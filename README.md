@@ -280,6 +280,10 @@ List of free online tools and resources in form of web applications or web servi
 
 ![picsvg.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/picsvg.png)
 
+- [FileOnTap](https://fileontap.com/) - Free browser-based HEIC, WebP, PNG and JPG converter with local processing; image-to-PDF tools are also available.
+
+![FileOnTap](https://raw.githubusercontent.com/zjch022/List-of-Free-Online-Tools-For-Front-end-Web-Development/add-fileontap-r8/img/fileontap-homepage.png)
+
 ## CSS
 
 - [westciv.com/tools/3Dtransforms](http://westciv.com/tools/3Dtransforms/index.html) - gradients/transforms editor
