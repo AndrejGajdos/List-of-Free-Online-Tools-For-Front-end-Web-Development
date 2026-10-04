@@ -239,6 +239,8 @@ List of free online tools and resources in form of web applications or web servi
 ![mazwai.com](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/mazwai.png)
 
 ### Image converters and editors
+- [Firm Beacon Image Resizer](https://www.firmbeacon.co.uk/tools/image-resizer) - Resize JPG, PNG, and WebP images in the browser without uploading them
+![Firm Beacon Image Resizer](https://raw.githubusercontent.com/RadhaJivanadas/List-of-Free-Online-Tools-For-Front-end-Web-Development/firm-beacon-image-resizer/img/firm-beacon-image-resizer.png)
 
 - [jpeg.io](https://www.jpeg.io/) - Converts any major image format into a highly optimized JPEG
 
