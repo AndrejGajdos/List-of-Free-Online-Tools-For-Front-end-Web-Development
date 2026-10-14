@@ -417,3 +417,6 @@ List of free online tools and resources in form of web applications or web servi
 - [easings.net](http://easings.net/en) - Collection of easing functions
 
 ![easings.net](https://raw.githubusercontent.com/AndrejGajdos/List-of-Free-Online-Tools-For-Front-end-Web-Development/master/img/easings.png)
+
+
+- [devtools.help](https://devtools.help/) - Free online developer toolbox: JSON/YAML formatter & validator, regex tester, Base64 / hash / HMAC & JWT tools, timestamp converter, string utilities and a QR code generator. Runs entirely in the browser, no signup required.
